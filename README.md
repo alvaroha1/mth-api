@@ -26,3 +26,15 @@ $ git clone https://github.com/alvaroha1/mth-api.git
 $ cd mth-api
 ```
 
+2. Install dependencies
+```
+$ npm install
+```
+3. Start MongoDB in your system.
+
+4. Run the server to fetch data from the APIs
+```
+$ npm start
+```
+
+This will fetch the latest data from the APIs and store them in a MongoDB database in your computer.
