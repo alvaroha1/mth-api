@@ -38,3 +38,17 @@ $ npm start
 ```
 
 This will fetch the latest data from the APIs and store them in a MongoDB database in your computer.
+
+## Additional Features that might be implemented on a later date
+* Tests
+* User Management system
+* More relevant metrics
+* Other APIs
+
+## Contributing
+Contributions Welcome!
+
+This is an on-going project and external input and ideas will be gladly recieved!
+
+## License
+This project is licensed under the MIT License, play around, have fun.
