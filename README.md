@@ -48,7 +48,7 @@ $ npm start
 
 This will fetch the latest data from the APIs and store them in a MongoDB database in your computer.
 
-## Additional Features that might be implemented on a later date
+## Additional Features 
 * Tests
 * User Management system
 * More relevant metrics
