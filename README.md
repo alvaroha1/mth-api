@@ -56,7 +56,7 @@ This will fetch the latest data from the APIs and store them in a MongoDB databa
 
 ## Authors
 * Peter Tas Schindler  - [Github]( https://github.com/ps3611) - [LinkedIn](https://www.linkedin.com/in/schindlerpeter/)
-* Steven Van Asbeck [GitHub](https://github.com/stevenspyramid) - [Linkedin](https://www.linkedin.com/in/steven-van-asbeck-a37823134/)
+* Steven Van Asbeck [GitHub](https://github.com/stevenspyramid) - [Linkedin](https://www.linkedin.com/in/steven-van-asbeck/)
 * Alvaro Hernandez Assens [GitHub](https://github.com/alvaroha1) - [Linkedin](https://www.linkedin.com/in/alvaroha/)
 
 ## License
